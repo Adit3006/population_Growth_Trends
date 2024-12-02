@@ -1,0 +1,23 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Data from 1990 to 2024
+data = {
+    'Year': [1990, 1995, 2000, 2005, 2010, 2015, 2020, 2024],
+    'Population (in billions)': [5.32, 5.73, 6.14, 6.52, 6.92, 7.35, 7.79, 8.10]
+}
+
+# Create DataFrame
+df = pd.DataFrame(data)
+
+# Display the DataFrame
+print(df)
+
+# Plot population growth trend
+plt.figure(figsize=(10, 5))
+plt.plot(df['Year'], df['Population (in billions)'], marker='o')
+plt.title('Population Growth Trend (1990-2024)')
+plt.xlabel('Year')
+plt.ylabel('Population (in billions)')
+plt.grid(True)
+plt.show()
