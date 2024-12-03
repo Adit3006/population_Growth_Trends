@@ -33,3 +33,43 @@ Installation: pip install pandas
 4) Matplotlib:
 Purpose: Data visulization.
 Installation: pip install matplotlib
+
+##Data Source:The current dataset used in the script is
+synthetic data created for demonstration purpose.
+
+Using Real Data
+
+1. United Nations (UN)
+   
+● Source: UN World Population Prospects
+● Details: Provides historical and projected population
+data globally and regionally.
+● Format: Downloadable datasets in Excel or CSV
+format.
+● Features:
+○ Population size by year, region, and country.
+○ Fertility, mortality, and migration rates.
+○ Projections up to 2100.
+
+3. World Bank
+   
+● Source: World Bank Population Data
+● Details: Offers population statistics for individual
+countries and global aggregates.
+● Format: CSV and Excel downloads, as well as API
+access.
+● Features:
+○ Total population.
+○ Population growth rates.
+○ Urban population statistics.
+
+5. Our World in Data
+   
+● Source: Our World in Data - Population
+● Details: Comprehensive datasets on historical and
+modern population trends.
+● Format: Interactive charts and downloadable data files.
+● Features:
+○ Population growth rates over centuries.
+○ Urbanization trends.
+○ Fertility and life expectancy data.
