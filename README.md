@@ -13,3 +13,23 @@
   Objective of the project: Study global population growth and
 
   its correlation with urbanization and GDP
+
+##Tools & Libraries:Tools and Libraries Used in the Population
+Growth Trends
+
+1.Python
+
+Python is the primary programing language used for
+scripting,data analysis,and visulization.
+
+2.Libraries
+
+1) Pandas:
+Purpose: Data manipulation and analysis.
+Usage in the Script: Creating and managing a dataset
+(Data Frame)
+Installation: pip install pandas
+
+4) Matplotlib:
+Purpose: Data visulization.
+Installation: pip install matplotlib
